@@ -1,6 +1,8 @@
 # Project Name
 
-Basic top-level information about the repo.
+This is a template for AI-driven-development projects. This repo offers a particular structure and a set of instructions that works well for teaching AI how to work efficiently with its context, its human, and other resources.
+
+The use-case involves cloning this repo, then editing this README and the Kanban/other files to give the AI some guidance and then put it to work.
 
 # Repo Structure
 
